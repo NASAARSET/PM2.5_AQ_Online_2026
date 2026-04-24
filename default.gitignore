@@ -1,0 +1,16 @@
+temp/
+docs/
+grfx/
+mkdn/
+pubs/
+.log
+.env
+.config.json
+.Rprofile
+.Rhistory
+.DS_Store
+.renv.lock
+*.Rproj
+*.keys
+.apikeys
+*.secret

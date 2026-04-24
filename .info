@@ -1,0 +1,8 @@
+*.meta
+	Contains project-level author and creation time metadata by default
+.gitignore
+	Contains common patterns by default
+.info
+	Generates these comments in the tree command when --info is set
+/code/python/standard_logging.py
+	A general purpose logging handler and formatter for Python
