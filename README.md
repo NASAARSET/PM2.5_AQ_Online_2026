@@ -14,4 +14,4 @@ Click on the link in the "Exercise" column to open the excercise in Google Colab
 
 | Notebook                                   | Exercise        | Completed       |
 | :--------------------------------------- | :-------------: | :-------------: |
-| Case Study Notebook (English) | N/A | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/NASAARSET/PM2.5_AQ_Online_2026/blob/main/code/python/PM2_5_AQ_Online_2026_CaseStudy_EN_complete.ipynb) |
+| Case Study Notebook (English) | N/A | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://github.com/](https://colab.research.google.com/github/NASAARSET/PM2.5_AQ_Online_2026/blob/main/code/python/PM2_5_AQ_Online_2026_CaseStudy_EN_complete.ipynb) |
