@@ -1,62 +1,17 @@
-# Template
+<center>
 
-## This is a template repository created by Justin Fain to better standardize the layout of ARSET repositories.
+![](https://earthdata.nasa.gov/s3fs-public/styles/hds_generic_card/public/2025-06/ARSET-fundamentals-th.jpg?VersionId=2jlwGCJeNeXx1m6qx2xoSZf6ddoTBfua&itok=y-d7pi3T)
 
-> [!WARNING]
-> If you are pushing an existing local repository you don't need to worry about any of this. Simply force push on your first commit and/or delete/modify any of the template files as you please. See the rest of this readme for a definition of the other files in the template.
+# ARSET - Estimating Surface PM<sub>2.5</sub> Using Satellite Data and Other Information Sources
 
-***
+</center>
 
-### For new users:
+A repository for code examples used during the 2026 NASA ARSET Online Training ["Estimating Surface PM<sub>2.5</sub> Using Satellite Data and Other Information Sources"]().
 
-The top-level directory where this readme is located contains OS-specific .gitignore files to be used as needed as well as one general-purpose default.gitignore which can be used to protect some of the subdirectory contents from getting pushed to the public repo from your local copy.
+## Direct links to open codes in Google Colab
 
-Include and exclude files/directories as needed. The default.gitignore is only meant as a hedge against accidentally pushing data, notes, powerpoints, etc. that aren't meant to be part of the public-facing repository.
+Click on the link in the "Exercise" column to open the excercise in Google Colab. Click the link in the "Completed" column to open a completed version of the excercise, where you can see the solutions.
 
-The "code" subdirectory contains language-specific subdirectories which in turn contain the standard .gitignore files for each language.
-
-The directory at "code/python" also contains a boilerplate logging handler which I have found to be incredibly useful for providing python scripts with a more interactive messaging system at the command line.
-
-The hidden files .info and .meta are meant to be managed by the authors. The .meta file is meant for your own record keeping.
-
-***
-
-The directory tree of this repository is as follows (ignoring the .gitkeep placeholders):
-
-```
-.
-├── .gitignore
-│    { Contains common patterns by default
-├── .info
-│    { Generates these comments in the tree command when --info is set
-├── .meta
-│    { Contains project-level author and creation time metadata by default
-├── code
-│   ├── c
-│   │   └── .gitignore
-│   ├── cpp
-│   │   └── .gitignore
-│   ├── python
-│   │   ├── .gitignore
-│   │   └── standard_logging.py
-│   ├── r
-│   │   └── .gitignore
-│   └── shell
-├── data
-│   ├── rast
-│   ├── tabs
-│   └── vect
-├── default.gitignore
-├── docs
-├── grfx
-├── macOS.gitignore
-├── mkdn
-│   ├── edit
-│   └── rend
-├── outs
-├── pubs
-├── README.md
-├── temp
-└── windows.gitignore
-
-```
+| Notebook                                   | Exercise        | Completed       |
+| :--------------------------------------- | :-------------: | :-------------: |
+| Name of the Notebook | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() |
