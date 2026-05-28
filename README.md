@@ -6,7 +6,7 @@
 
 </center>
 
-A repository for code examples used during the 2026 NASA ARSET Online Training ["Estimating Surface PM<sub>2.5</sub> Using Satellite Data and Other Information Sources"]([https://www.earthdata.nasa.gov/data/projects/arset](https://www.earthdata.nasa.gov/learn/trainings/estimating-surface-pm2.5-using-satellite-data-other-information-sources)).
+A repository for code examples used during the 2026 NASA ARSET Online Training ["Estimating Surface PM<sub>2.5</sub> Using Satellite Data and Other Information Sources"](https://www.earthdata.nasa.gov/learn/trainings/estimating-surface-pm2.5-using-satellite-data-other-information-sources).
 
 ## Direct links to open codes in Google Colab
 
