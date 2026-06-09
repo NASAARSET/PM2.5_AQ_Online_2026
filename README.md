@@ -15,6 +15,6 @@ Click on the link in the "Exercise" column to open the excercise in Google Colab
 | Notebook                                   | Exercise        | Completed       |
 | :--------------------------------------- | :-------------: | :-------------: |
 | Case Study Notebook (English) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NASAARSET/PM2.5_AQ_Online_2026/blob/main/code/python/PM2_5_AQ_Online_2026_CaseStudy_EN.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NASAARSET/PM2.5_AQ_Online_2026/blob/main/code/python/PM2_5_AQ_Online_2026_CaseStudy_EN_complete.ipynb) |
-| Case Study Notebook (Español) | N/A | N/A |
-| Homework Notebook (English) | N/A | N/A |
-| Homework Notebook (Español) | N/A | N/A |
+| Case Study Notebook (Español) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NASAARSET/PM2.5_AQ_Online_2026/blob/main/code/python/PM2_5_AQ_Online_2026_CaseStudy_ES.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NASAARSET/PM2.5_AQ_Online_2026/blob/main/code/python/PM2_5_AQ_Online_2026_CaseStudy_ES_complete.ipynb) |
+| Homework Notebook (English) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NASAARSET/PM2.5_AQ_Online_2026/blob/main/code/python/PM2_5_AQ_Online_2026_Homework_EN.ipynb) | N/A |
+| Homework Notebook (Español) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NASAARSET/PM2.5_AQ_Online_2026/blob/main/code/python/PM2_5_AQ_Online_2026_Homework_ES.ipynb) | N/A |
