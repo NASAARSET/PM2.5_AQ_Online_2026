@@ -1,6 +1,6 @@
 <center>
 
-![](https://earthdata.nasa.gov/s3fs-public/styles/hds_generic_card/public/2025-06/ARSET-fundamentals-th.jpg?VersionId=2jlwGCJeNeXx1m6qx2xoSZf6ddoTBfua&itok=y-d7pi3T)
+![](https://earthdata.nasa.gov/s3fs-public/styles/hero_background_745/public/2026-04/arset-2026-aodpm25-hero.png?VersionId=VHPzU5PQeOTHT6D4KCHkfecbOWNJ_hQH&itok=aE3AfbOV)
 
 # ARSET - Estimating Surface PM<sub>2.5</sub> Using Satellite Data and Other Information Sources
 
@@ -14,7 +14,7 @@ Click on the link in the "Exercise" column to open the excercise in Google Colab
 
 | Notebook                                   | Exercise        | Completed       |
 | :--------------------------------------- | :-------------: | :-------------: |
-| Case Study Notebook (English) | N/A | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NASAARSET/PM2.5_AQ_Online_2026/blob/main/code/python/PM2_5_AQ_Online_2026_CaseStudy_EN_complete.ipynb) |
+| Case Study Notebook (English) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NASAARSET/PM2.5_AQ_Online_2026/blob/main/code/python/PM2_5_AQ_Online_2026_CaseStudy_EN.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NASAARSET/PM2.5_AQ_Online_2026/blob/main/code/python/PM2_5_AQ_Online_2026_CaseStudy_EN_complete.ipynb) |
 | Case Study Notebook (Español) | N/A | N/A |
 | Homework Notebook (English) | N/A | N/A |
 | Homework Notebook (Español) | N/A | N/A |
